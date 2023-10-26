@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Arthur Henrique🖐️
-[![Gmail]([https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit))](arthur.henrique.elias@gmail.com)
+[![Gmail]([https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](arthur.henrique.elias@gmail.com)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=artelias&show_icons=true&theme=dracula&count_private=true)
 
