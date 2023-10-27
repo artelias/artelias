@@ -31,7 +31,7 @@ Sou um estudante dedicado apaixonado por estatística, ciência de dados e progr
 ## 🎓 Atuação Acadêmica
 
 - **Ciência de Dados na Academia**
-  - Participação ativa em projetos de extensão, ensinando R, Python, cálculo, probabilidade e aprendizado de máquina a alunos interessados.
+  - Participação ativa em projetos de extensão,tutoria e monitoria ensinando R, Python, cálculo, probabilidade e aprendizado de máquina a alunos interessados.
   
 ---
 
